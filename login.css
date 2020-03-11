@@ -1,0 +1,68 @@
+.jumbotron{
+	padding: 20px;
+	color: #2c3e50;
+    background: #ecf0f1;
+    text-align: center;
+}
+
+.navbar{
+	background:  #2c3e50;
+}
+.navbar-default .navbar-brand {
+    color: white;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+input:focus{
+    outline:none;
+    color: #2c3e50;
+    
+}
+input{
+    margin-top: 15px;
+}
+.thumbnail{
+    align: center;
+    height: 250px;
+    padding:20px;
+    color: #2c3e50;
+    margin-left: 40px;
+}
+.slog{
+    margin-left: 24px;
+    
+}
+.headinglogin{
+    margin-left: 55px;
+}
+#slogbutton{
+   background: #2c3e50;
+   color: white;
+   margin-top: 15px;
+   margin-left: 80px;
+   outline: none;
+}
+#alogbutton{
+    background: #2c3e50;
+    color: white;
+    margin-top: 15px;
+    margin-left: 80px;
+    outline: none;
+}
+#loginboxes{
+    margin-left: 170px;
+}
+body{
+    overflow-x: hidden;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #2c3e50;
+    color: white;
+    text-align: center;
+    padding-top:2px ;
+  }
